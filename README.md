@@ -1,7 +1,6 @@
 # Trackart Essentia
 
-Ce projet analyse les fichiers audio pour extraire des caractéristiques comme le BPM, le rythme et l'ambiance, et prépare les données pour la génération de pochettes d'album.
-
+Ce projet analyse les fichiers audio pour extraire des caractéristiques comme le BPM, le rythme et l'ambiance
 ## Installation
 
 ```bash
